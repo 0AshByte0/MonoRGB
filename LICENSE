@@ -1,0 +1,39 @@
+Mono – Personal Use License
+
+Copyright (c) 2026 0AshByte0. All rights reserved.
+
+This license applies to Mono (the installer and the installed program) EXCEPT
+the third-party components listed under "Third-party components" below.
+
+1. Permitted use
+   You may download, install and use Mono free of charge for your own
+   personal, non-commercial use.
+
+2. Restrictions
+   Without prior written permission from the copyright holder, you may NOT:
+   a) use Mono for commercial purposes, including use within a business or
+      in exchange for payment;
+   b) sell, sublicense, rent or otherwise commercially exploit Mono;
+   c) redistribute, re-upload or bundle Mono or modified versions of it;
+      please link to this repository instead;
+   d) remove or alter this license or any copyright notices.
+
+3. Third-party components
+   Mono ships open-source components that are NOT covered by this license and
+   remain under their own licenses, including the RGB engine OpenRGB
+   (GPL-2.0-or-later), Qt (LGPL-3.0), libusb (LGPL-2.1), hidapi, PawnIO and
+   various NuGet and npm packages. See THIRD-PARTY-NOTICES.txt for details;
+   it is also installed with the program. Nothing in this license restricts
+   any rights granted to you by those licenses.
+
+4. No warranty
+   MONO IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+   A PARTICULAR PURPOSE AND NONINFRINGEMENT. MONO CONTROLS HARDWARE (RGB
+   LIGHTING AND FAN SPEEDS); YOU USE IT AT YOUR OWN RISK. IN NO EVENT SHALL
+   THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY
+   ARISING FROM, OUT OF OR IN CONNECTION WITH MONO OR THE USE OF OR OTHER
+   DEALINGS IN MONO.
+
+For any use not covered by this license, contact the copyright holder via
+https://github.com/0AshByte0.

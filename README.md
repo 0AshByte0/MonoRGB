@@ -1,25 +1,25 @@
 # Mono
 
-Alle RGB-Lichter deines PCs in einer Farbe – ohne dauerhaften Hintergrundprozess.
+All your PC's RGB lights in one color, plus fan control, without a permanent background process.
 
 ## Download
 
-Die aktuelle Version gibt es unter **[Releases](../../releases/latest)**.
-`Mono-Setup-x.y.z.exe` herunterladen und ausführen.
+Get the latest version from **[Releases](../../releases/latest)**.
 
-## Voraussetzungen
+Download `Mono-Setup-x.y.z.exe` and run it.
 
-- Windows 10/11 (64-Bit)
-- Andere RGB-/Lüfter-Software (z. B. iCUE, Armoury Crate, Mystic Light) sollte beendet sein, da sie sich um die Geräte streiten können.
+## Requirements
 
-## Fehler melden
+- Windows 10/11 (64-bit)
+- Quit other RGB or fan software (e.g. iCUE, Armoury Crate, Mystic Light) first. It can fight with Mono over the same devices.
 
-Probleme und Wünsche bitte als [Issue](../../issues) melden.
+## Reporting issues
 
-## Lizenz
+Please report bugs and feature requests as an [issue](../../issues).
 
-Mono ist proprietäre Software, © 2026 0AshByte0. Alle Rechte vorbehalten.
-Die Nutzung ist kostenlos; Weiterverbreitung oder Veränderung ist ohne Erlaubnis nicht gestattet.
+## License
 
-Mono verwendet Open-Source-Komponenten von Drittanbietern. Deren Lizenzen stehen in
-[THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt) und werden auch mit dem Programm installiert.
+**Mono is free for personal, non-commercial use only.** © 2026 0AshByte0. All rights reserved.
+You may not redistribute, sell or use it commercially without permission. See [LICENSE](LICENSE).
+
+Mono uses open-source third-party components, such as the RGB engine [OpenRGB](https://openrgb.org) (GPL-2.0). These stay under their own licenses, which are listed in [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt) and are also installed with the program.
